@@ -22,7 +22,7 @@
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": "êvilẞø†"
+      "value": "нєxοя мυѕιϲ ʙοτ"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
