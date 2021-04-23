@@ -2,7 +2,7 @@
 <h1 align="centre">🎵нєxοя мυѕιϲ ʙοτ🎵</h1>
 
 <p align="center">
-  <img src="./resources/extras/1615044144821.png" alt="Evilmusicbot">
+  <img src="./resources/1615044144821.png" alt="Evilmusicbot">
 </p>
 
 ## Requirements 📝
