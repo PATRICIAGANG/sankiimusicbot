@@ -21,15 +21,15 @@ The commands I currently support are:
             [
                 [
                     InlineKeyboardButton(
-                        "📔 Source Code 📔", url="https://github.com/Hexor752/sankiimusicbot"
+                        "Owner💕", url="https://t.me/nIkLaUsMiKaElSn"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group 💬", url="https://t.me/SankiiPublic"
+                        "💬 Group 💬", url="https://t.me/patricia_support"
                     ),
                     InlineKeyboardButton(
-                        "📣 Owner 📣", url="https://t.me/Its_Hexor"
+                        "Channel📣", url="https://t.me/patricia_updates"
                     )
                 ],
                 [
