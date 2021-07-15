@@ -21,7 +21,7 @@ The commands I currently support are:
             [
                 [
                     InlineKeyboardButton(
-                        "Owner💕", url="https://t.me/nIkLaUsMiKaElSn"
+                        "Owner💕", url="https://GitHub.com/bot-support"
                     )
                 ],
                 [
